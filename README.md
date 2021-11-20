@@ -2,6 +2,8 @@
 
 Reshape creates multiple derived stores from one store.
 
+> Please, use [patronum/reshape](https://github.com/effector/patronum)
+
 ## Installation
 
 ```bash
